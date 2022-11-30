@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/HatredZay/FOVChanger/main/FOVGUI.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/zaythemonster/FOVChanger/main/FOVGUI.lua'),true))()
